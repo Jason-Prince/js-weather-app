@@ -1,6 +1,6 @@
 # :cloud: Weather App
 
-This project demonstrates my skills at consuming a 3rd party API.
+This project demonstrates my skills in consuming a 3rd party API and rendering it with a responsive layout.
 
 ## Tech Used
 
@@ -11,6 +11,7 @@ This project demonstrates my skills at consuming a 3rd party API.
   - CSS
   - JavaScript (vanilla)
 - API: [Open-Meteo](https://open-meteo.com/)
+- Dependencies: Axios
 
 ## How to View this App
 
